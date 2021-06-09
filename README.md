@@ -24,5 +24,5 @@ A few things about myself:
 
 # Github Stats
 
-![All of my information](https://raw.githubusercontent.com/dumb-stuff/For-hosting/b98a18abe5410412816a0b4e83d03e36bc8d2cb7/generated/overview.svg)
-![Language that I used](https://raw.githubusercontent.com/dumb-stuff/For-hosting/b98a18abe5410412816a0b4e83d03e36bc8d2cb7/generated/languages.svg)
+[![Mooping's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumb-stuff&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumb-stuff&theme=dark&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
