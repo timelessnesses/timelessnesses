@@ -27,6 +27,8 @@ A few things about myself:
 
 [![Mooping's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumb-stuff&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumb-stuff&theme=dark&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Script that I worked for most of my time](https://github-readme-stats.vercel.app/api/wakatime?username=dumb-stuff)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### I am roblox man
 Join me or friend or follow at
  https://www.roblox.com/users/1120413312/profile
