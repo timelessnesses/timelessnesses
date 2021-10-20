@@ -5,7 +5,7 @@ Hello my name is mooping.
 I am 14 years old. 
 Born when 17/11/2007.
 I am studying at Thailand.
-My favorite languages are Python,Node.JS
+My favorite languages are Python,Go,Lua
 
 # A few things about myself
 
