@@ -1,4 +1,3 @@
-# Thanks to Github that allow me to be a good developer with full of tools! Thank you! I will use github and support github!
 # Introduction
 
 Hello my name is mooping. 
@@ -22,6 +21,17 @@ A few things about myself:
 - 👨‍💻 Most of my personal projects are open source for free and educational purposes
 
 - 💬 I will try my best to help!
+
+## coding languages
+
+Roblox Lua,Go,Python,C#
+
+### my favorite language
+
+1.Python
+2.Go
+3.Roblox Lua
+4.C#
 
 # Github Stats
 
