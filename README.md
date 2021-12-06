@@ -39,7 +39,7 @@ Roblox Lua,Go,Python,C#
 [![Mooping's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumb-stuff&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumb-stuff&theme=dark&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Script that I worked for most of my time](https://github-readme-stats.vercel.app/api/wakatime?username=dumb-stuff)](https://github.com/anuraghazra/github-readme-stats)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0n56ukri2cfd9ytkzkk03uh1k&cover_image=true&theme=default&bar_color=00d5ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ##### I am roblox man
 Join me or friend or follow at  
 https://www.roblox.com/users/911241247/profile
