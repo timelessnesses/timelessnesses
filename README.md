@@ -17,7 +17,7 @@ A few things about myself:
 
 - 📫 Want to contact? Well You can click these link below!
 
-- [Facebook](https://web.facebook.com/Python.mooping/) [Discord Server](https://discord.gg/QGjHVKcmTJ) [Website](https://rukchadisa.live) Discord Name (I am person who don't like to accept friend from someone that I don't know) RukchadNeedsTherapy#9443
+- [Facebook](https://web.facebook.com/Python.mooping/) [Discord Server](https://discord.gg/QGjHVKcmTJ) [Website](https://rukchadisa.live) Discord Name (I am person who don't like to accept friend from someone that I don't know) Timelessnesses#9443
 
 - 👨‍💻 Most of my personal projects are open source for free and educational purposes
 
