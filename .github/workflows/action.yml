@@ -1,6 +1,7 @@
 name: Metrics
 on: 
-  schedule: [{ cron: "* * * * *" }]
+  schedule: 
+   - cron: "* * * * *" 
 
 jobs:
   github-metrics:
