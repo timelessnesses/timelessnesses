@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/core
           config_timezone: Asia/Bangkok
