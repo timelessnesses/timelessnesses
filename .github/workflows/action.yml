@@ -1,0 +1,39 @@
+name: Metrics
+on:
+  # Update on midnight every day (korean compensated for time zone)
+  schedule: [{ cron: "0 14 * * *" }]
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/core
+          config_timezone: Asia/Seoul
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/base
+          base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, organization_member
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/lines
+          plugin_lines: yes
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
+          plugin_traffic: yes
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/languages
+          plugin_languages: yes
+          plugin_languages_limit: 0
+          plugin_languages_details: percentage
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/isocalendar
+          plugin_isocalendar: yes

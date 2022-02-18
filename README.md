@@ -1,44 +1,40 @@
+<style>
+	h1{
+		align-items: center;
+		display: flex;
+		justify-content: center;
+	}
+	img{
+		align-items: center;
+		display: flex;
+		justify-content: center;
+	}
+	.container{
+		align-items: center;
+		display: grid;
+		justify-content: center;
+		gap: 50px 50px
+	}
 
-# Introduction
+</style>
 
-Hello my name is mooping. 
-I am 15 years old. 
-Born when 17/11/2007.  
-I am studying at Thailand.  
-My favorite languages are Python,Go,Lua  
+<h1>Hello! My name is mooping</h1>
 
-# A few things about myself
+## Who are you?
+I am a backend developer and discord bot developer.  
 
-A few things about myself:
+## Skills
 
-- 💻 I always active at replit and github also my facebook.
+- Python
+- C sharp (.NET)
+- Ruby (I don't know what to do with it.)
+- Javascript (I don't use it that much)
+- Typescript (I love typescript(I biased))
+- Lua (I don't really use it)
+- HTML (I don't make front-end sometimes my front-end sucks)
+- JSON (My beloved DB)
+- CSS (I don't like it)
+- Go (I don't really use it too)
 
-- 🧐 Learning Go Language and try to learn more python.
-
-- 📫 Want to contact? Well You can click these link below!
-
-- [Facebook](https://web.facebook.com/Python.mooping/) [Discord Server](https://discord.gg/QGjHVKcmTJ) [Website](https://rukchadisa.live) Discord Name (I am person who don't like to accept friend from someone that I don't know) Timelessnesses#9443
-
-- 👨‍💻 Most of my personal projects are open source for free and educational purposes
-
-- 💬 I will try my best to help!
-
-## coding languages
-
-Roblox Lua,Go,Python,C#
-
-### my favorite language
-
-1.Python
-2.Go
-3.Roblox Lua
-4.C#
-
-# Github Stats
-
-[![Mooping's GitHub stats](https://github-readme-stats.vercel.app/api?username=timelessnesses&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timelessnesses&theme=dark&langs_count=100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0n56ukri2cfd9ytkzkk03uh1k&cover_image=true&theme=default&bar_color=00d5ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)<br>
-##### I am roblox man
-Join me or friend or follow at  
-https://www.roblox.com/users/911241247/profile
+## Statistic
+<img src="./github-metrics.svg" alt="Github metrics"></img>
