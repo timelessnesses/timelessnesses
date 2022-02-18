@@ -4,21 +4,10 @@
 		display: flex;
 		justify-content: center;
 	}
-	img{
-		align-items: center;
-		display: flex;
-		justify-content: center;
-	}
-	.container{
-		align-items: center;
-		display: grid;
-		justify-content: center;
-		gap: 50px 50px
-	}
 
 </style>
 
-<h1>Hello! My name is mooping</h1>
+<h1 class="align-items: center; display: flex; justify-content: center;">Hello! My name is mooping</h1>
 
 ## Who are you?
 I am a backend developer and discord bot developer.  
@@ -37,4 +26,4 @@ I am a backend developer and discord bot developer.
 - Go (I don't really use it too)
 
 ## Statistic
-<img src="./github-metrics.svg" alt="Github metrics"></img>
+<img src="./github-metrics.svg" alt="Github metrics" style="align-items: center; display: flex; justify-content: center;"></img>
