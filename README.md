@@ -1,13 +1,4 @@
-<style>
-	h1{
-		align-items: center;
-		display: flex;
-		justify-content: center;
-	}
-
-</style>
-
-<h1 class="align-items: center; display: flex; justify-content: center;">Hello! My name is mooping</h1>
+<h1 style="align-items: center; display: flex; justify-content: center;">Hello! My name is mooping</h1>
 
 ## Who are you?
 I am a backend developer and discord bot developer.  
