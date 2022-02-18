@@ -2,7 +2,8 @@ name: Metrics
 on: 
   schedule: 
    - cron: "* * * * *" 
-
+  push:
+    branches: main
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
