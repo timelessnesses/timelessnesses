@@ -17,4 +17,4 @@ I am a backend developer and discord bot developer.
 - Go (I don't really use it too)
 
 ## Statistic
-<img src="./github-metrics.svg" alt="Github metrics" style="align-items: center; display: flex; justify-content: center;"></img>
+<img src="./github-metrics.svg" alt="Github metrics" style="align-items: center; display: flex; justify-content: center;"/>
