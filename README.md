@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=timelessnesses&style=for-the-badge)  
 <h1 style="align-items: center; display: flex; justify-content: center;">Hello! My name is mooping</h1>
 
 ## Who are you?
@@ -18,3 +19,4 @@ I am a backend developer and discord bot developer.
 
 ## Statistic
 <img src="./github-metrics.svg" alt="Github metrics" style="align-items: center; display: flex; justify-content: center;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=timelessnesses&theme=onedark" alt="trophy?" style="align-items: center; display: flex; justify-content: center;"/>
