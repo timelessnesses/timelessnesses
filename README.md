@@ -14,7 +14,8 @@ I am a backend developer and discord bot developer.
 - Lua (I don't really use it)
 - HTML (I don't make front-end sometimes my front-end sucks)
 - JSON (My beloved DB)
-- CSS (I don't like it)
+- PostgreSQL (cooler than SQLite)
+- MySQL (nah)
 - Go (I don't really use it too)
 
 ## Statistic
