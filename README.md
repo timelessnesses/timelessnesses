@@ -18,6 +18,12 @@ I am a backend developer and discord bot developer.
 - MySQL (nah)
 - Go (I don't really use it too)
 
+## Caution
+- Yes I do stuff for free so please be patient
+- I really can't pinpoint my end time but usually if it isn't big it took like a week or two.
+- I also have time for myself and my family like you are, Don't forcing me to work
+- :)
+
 ## Statistic
 <img src="./github-metrics.svg" alt="Github metrics" style="align-items: center; display: flex; justify-content: center;"/>
 <img src="https://github-profile-trophy.vercel.app/?username=timelessnesses&theme=onedark" alt="trophy?" style="align-items: center; display: flex; justify-content: center;"/>
