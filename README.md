@@ -16,7 +16,8 @@ I am a backend developer and discord bot developer.
 - JSON (My beloved DB)
 - PostgreSQL (cooler than SQLite)
 - MySQL (nah)
-- Go (I don't really use it too)
+- SQLite
+- Julia (learning)
 
 ## Caution
 - Yes I do stuff for free so please be patient
