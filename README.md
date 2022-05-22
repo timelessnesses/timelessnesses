@@ -13,11 +13,10 @@ I am a backend developer and discord bot developer.
 - Typescript (I love typescript(I biased))
 - Lua (I don't really use it)
 - HTML (I don't make front-end sometimes my front-end sucks)
-- JSON (My beloved DB)
 - PostgreSQL (cooler than SQLite)
 - MySQL (nah)
 - SQLite
-- Julia (learning)
+- json
 
 ## Caution
 - Yes I do stuff for free so please be patient
