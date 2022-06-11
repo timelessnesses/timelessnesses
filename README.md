@@ -1,8 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=timelessnesses&style=for-the-badge)  
-<h1 style="align-items: center; display: flex; justify-content: center;">Hello! My name is mooping</h1>
+
+<h1 style="align-items: center; display: flex; justify-content: center;">Hello! My name is mooping</h1>  
+
 
 ## Who are you?
 I am a backend developer and discord bot developer.  
+![](https://discord.c99.nl/widget/theme-4/890913140278181909.png)  
 
 ## Skills
 
