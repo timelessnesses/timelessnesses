@@ -30,5 +30,4 @@ I am a backend developer and discord bot developer.
 <img src="./github-metrics.svg" alt="Github metrics" style="align-items: center; display: flex; justify-content: center;"/>
 <img src="https://github-profile-trophy.vercel.app/?username=timelessnesses&theme=onedark" alt="trophy?" style="align-items: center; display: flex; justify-content: center;"/>
 
-## credit
-art works by CatalsymCake 
+###### Timeless (as known as Rukchad Wongprayoon) (as known as Mooping) is not responsible for accidental digital consciousness transfer, real world manifestations of digital characters, nightmares, night terrors, night sweat, disapperance, death, or dismemberment. 
