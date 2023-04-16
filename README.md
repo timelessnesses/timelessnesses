@@ -1,3 +1,5 @@
+###### warning: laggy readme beware, also i hate document db so don't ask one  
+
 ![](https://komarev.com/ghpvc/?username=timelessnesses&style=for-the-badge)  
 
 <h1 style="align-items: center; display: flex; justify-content: center;">Hello! My name is mooping</h1>  
