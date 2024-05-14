@@ -11,12 +11,11 @@ I am a backend developer and discord bot developer. You can contact me through D
 ## Skills
 
 - Python
-- C sharp (.NET)
-- Ruby (I don't know what to do with it.)
+- Rust
+- Golang
 - Javascript (I don't use it that much)
-- Typescript (I love typescript(I biased))
+- Typescript (I love typescript (I biased))
 - Lua (I don't really use it)
-- HTML (I don't make front-end sometimes my front-end sucks)
 - PostgreSQL (cooler than SQLite)
 - MySQL (nah)
 - SQLite
