@@ -10,20 +10,10 @@ walalalalalallal a cat that codes walalalallalalalalalala
 ## Skills
 
 - Python
-- C sharp (.NET)
-- Ruby (I don't know what to do with it.)
-- Javascript (I don't use it that much)
-- Typescript (I love typescript(I biased))
-- Lua (I don't really use it)
-- HTML (I don't make front-end sometimes my front-end sucks)
-- PostgreSQL (cooler than SQLite)
-- MySQL (nah)
-- SQLite
-- FastAPI
-- Flask
-- SvelteKit
-- Roblox Game Scripting
-- (kinda) Full Stack (?)
+- Rust
+- Backend
+- Devops (does setting up a proper grafana count)
+- Svelte/TypeScript
 
 ## Statistic
 <img src="./github-metrics.svg" alt="Github metrics" style="align-items: center; display: flex; justify-content: center;"/>
